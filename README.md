@@ -2,7 +2,7 @@
 
 Estii helps technology services businesses make better commercial decisions before committing to delivery. Estii gives technology services teams one commercial model for every deal, aligning sales, delivery and finance around scope, effort, pricing, margin, revenue and schedule before committing to delivery.
 
-This plugin lets Claude work in your Estii account. Ask Claude to check a deal before it goes for approval, change the scope and show what happens to margin, build a new estimate from work your team has already priced, or show which roles next quarter's pipeline will stretch.
+This plugin lets Claude work in your Estii account. Ask Claude to check a deal before it goes for approval, start a deal from your templates and library, or explain what changed since the version you sent the client and what that did to margin.
 
 ## What Claude can do
 
@@ -17,8 +17,8 @@ This plugin lets Claude work in your Estii account. Ask Claude to check a deal b
 Try asking:
 
 - "Review the Acme portal deal before I send it for approval. What should I be worried about?"
-- "What happens to our margin if we move the integration phase to fixed price?"
-- "Which roles are we likely to run short on next quarter?"
+- "Create a deal for Acme's portal rebuild from our Website Build template, and add discovery and QA from our library."
+- "What changed in the Acme deal since the version we sent the client, and why did the margin drop?"
 
 ## Before you start
 
