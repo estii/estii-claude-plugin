@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "estii": {
+      "type": "http",
+      "url": "https://api.estii.com/mcp"
+    }
+  }
+}

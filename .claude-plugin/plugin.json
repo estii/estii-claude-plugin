@@ -1,0 +1,20 @@
+{
+  "name": "estii",
+  "displayName": "Estii",
+  "version": "1.0.0",
+  "description": "Scope, price and approve technology services deals.",
+  "author": {
+    "name": "Estii",
+    "email": "support@estii.com",
+    "url": "https://www.estii.com"
+  },
+  "homepage": "https://www.estii.com/dev/mcp",
+  "repository": "https://github.com/estii/estii-claude-plugin",
+  "license": "MIT",
+  "keywords": ["estimation", "pricing", "proposals", "professional-services", "pipeline"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.estii.com/dev/mcp",
+  "supportUrl": "https://www.estii.com/contact",
+  "privacyPolicyUrl": "https://www.estii.com/privacy",
+  "termsOfServiceUrl": "https://www.estii.com/terms"
+}
